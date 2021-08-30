@@ -5,12 +5,13 @@ I'm a 4rd year Web and Mobile Computing undergraduate at <a href="https://www.ri
 - 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/), [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
 - 🔭 Currently employed as a Teaching Assistant and as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
 
-## Projects
+## Noteable Projects:
 
 ### Tribe Logger
-Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts). This is then either piped all the way up to JS and displayed in a canvas or given to [tesseract](https://github.com/tesseract-ocr/tesseract) *(building from source using [vcpkg](https://github.com/microsoft/vcpkg))*.
+Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in, as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts) as a source. This is then either piped all the way up to the `TypeScript` / `JavaScript` to displayed in a canvas, or given to [tesseract](https://github.com/tesseract-ocr/tesseract) *(building from source using [vcpkg](https://github.com/microsoft/vcpkg))* inside the native C++ addon; then the text found is routed up the caller.
 
 In the image below you can see it capturing a bitmap from the `ARK: Survival Evolved` window and then displaying it in the `Electron` app window. The green box is the area the user can `crop` for tesseract to scan for text.
+
 ![Tribe-Logger](resources/tribe-logger/testing.png)
 
 Recently I ported the project to use this [template](https://github.com/electron-react-boilerplate/electron-react-boilerplate) to help speed up `React` integration.
@@ -30,14 +31,18 @@ This project was created for [ICS](https://www.rit.edu/ntid/ics) department and 
 - Desktop *(WPF .NET Core)*
 - Mobile *(Android using Xamarin)*
 
-// Add Images Here
+*note - the console also accepts input for rows/columns/cycleTime, but in the provided screenshot you cannot see it because it has been cleared away...*
+
+![Game Of Life Console, Desktop, & Mobile](resources/game-of-life/game_of_life_all.png)
 
 I attended the event and assisted new students with building their own apps from this repo. Checkout the [repo](https://github.com/MAD-NTID/GameOfLife) if you want to see more or download it for youself.
 
 ### Baby Fingers
 
-The app Baby Fingers uses Xamarin.Forms to provide both Android & iOS packages. It is available on both Google Play and the Apple App Store.
+The app Baby Fingers uses `Xamarin.Forms` to provide both `Android` & `iOS` packages. It is available on both `Google Play` and the `Apple App Store`. The app provides various topics that have lessons within in them with quizzes to test your memory once you're ready!
 
 |  |  |  |
 | :---: | :----: | :---: |
 | ![Home Page](resources/baby-fingers/home_page.png) | ![Quiz Page](resources/baby-fingers/taking_quiz_page.png) | ![Quiz Attempts](resources/baby-fingers/quiz_attempts_page.png) |
+
+The app is currently not available to the public to protect the client.
