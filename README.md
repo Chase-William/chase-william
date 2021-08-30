@@ -17,8 +17,8 @@ Recently I ported the project to use this [template](https://github.com/electron
 
 #### Remaining:
  - Finish Front-End / Packaging *using [webpack](https://webpack.js.org/) | [babel](https://babeljs.io/)*
- - Build a `Rest API` coupled to a DBMS and it's database *(client authentication needed)*
- - Build the `Discord Bot` *(using GoLang)*
+ - Build a `Rest API` coupled to a `DBMS` and it's database *(client authentication needed | probs gonna go [mySQL](https://www.mysql.com/) 8.0)*
+ - Build the `Discord Bot` *(using [GoLang](https://golang.org/) & [discordGo](https://github.com/bwmarrin/discordgo))*
 
 Tribe Logger is a electron app that is being build with React as it's front-end JS framework.
 
