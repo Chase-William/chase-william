@@ -21,7 +21,7 @@ Recently I ported the project to use this [template](https://github.com/electron
 
 #### Remaining:
  - Finish Front-End / Packaging *using [webpack](https://webpack.js.org/) | [babel](https://babeljs.io/)*
- - Build a `Rest API` coupled to a `DBMS` and it's database *(client authentication needed | probs gonna go [mySQL](https://www.mysql.com/) 8.0)*
+ - Build a `Rest API` coupled to a `DBMS` and it's database *(client authentication needed | going SQL style)*
  - Build the `Discord Bot` *(using [GoLang](https://golang.org/) & [discordGo](https://github.com/bwmarrin/discordgo))*
 
 This repo is currently under active development and is private because of possible monetization once finished. 
