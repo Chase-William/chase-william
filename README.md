@@ -8,6 +8,6 @@ I'm a 4rd year Web and Mobile Computing undergraduate at <a href="https://www.ri
 ## Projects
 
 ### Baby Fingers
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| ![Tux, the Linux mascot](resources/baby-fingers/home_page.png) | ![Tux, the Linux mascot](resources/baby-fingers/quiz_attempts_page.png) | ![Tux, the Linux mascot](resources/baby-fingers/taking_quiz_page.png) |
+| Home Page | Quiz Resu | Test Text     |
+| :---: | :----: | :---: |
+| ![Tux, the Linux mascot](resources/baby-fingers/home_page.png) |![Tux, the Linux mascot](resources/baby-fingers/taking_quiz_page.png) | ![Tux, the Linux mascot](resources/baby-fingers/quiz_attempts_page.png) |
