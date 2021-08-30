@@ -3,12 +3,12 @@ I'm a 4rd year Web and Mobile Computing undergraduate at <a href="https://www.ri
 
 - 🌱 Currently learning & building an [electron](https://www.electronjs.org/) app with [React](https://reactjs.org/) which includes my very own [native node addon](https://nodejs.org/api/addons.html) using [nan](https://github.com/nodejs/nan)
 - 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/), [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
-- 🔭 Currently employed as a Teaching Assistant and as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
+- 🔭 Currently employed as a DevOps Engineer working with HoloLens 2 Tech under the [CCL](https://www.rit.edu/ntid/nccl) and also as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
 
 ## Noteable Projects:
 
 ### Tribe Logger
-Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in, as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts) as a source. This is then either piped all the way up to the `TypeScript` / `JavaScript` to displayed in a canvas, or given to [tesseract](https://github.com/tesseract-ocr/tesseract) *(building from source using [vcpkg](https://github.com/microsoft/vcpkg))* inside the native C++ addon; then the text found is routed up the caller.
+Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in, as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts) as a source. This is then either piped all the way up to the `TypeScript` / `JavaScript` to displayed in a canvas, or given to [tesseract](https://github.com/tesseract-ocr/tesseract) *(building from source using [vcpkg](https://github.com/microsoft/vcpkg))* inside the native `C++` addon; then the text found is routed up the caller.
 
 In the image below you can see it capturing a bitmap from the `ARK: Survival Evolved` window and then displaying it in the `Electron` app window. The green box is the area the user can `crop` for tesseract to scan for text.
 
