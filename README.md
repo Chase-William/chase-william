@@ -8,9 +8,17 @@ I'm a 4rd year Web and Mobile Computing undergraduate at <a href="https://www.ri
 ## Projects
 
 ### Tribe Logger
-Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts). This is then either piped all the way up to JS and displayed in a canvas or given to [tesseract](https://github.com/tesseract-ocr/tesseract).
+Tribe Logger aims to provide members with updates about tribe log information when in-game events occur. This is where native-node addons come in as I am using my own to get bitmaps from a window on command using it's [Device Context](https://docs.microsoft.com/en-us/windows/win32/gdi/device-contexts). This is then either piped all the way up to JS and displayed in a canvas or given to [tesseract](https://github.com/tesseract-ocr/tesseract) *(building from source using [vcpkg](https://github.com/microsoft/vcpkg))*.
 
+In the image below you can see it capturing a bitmap from the `ARK: Survival Evolved` window and then displaying it in the `Electron` app window. The green box is the area the user can `crop` for tesseract to scan for text.
+![Tribe-Logger](resources/tribe-logger/testing.png)
 
+Recently I ported the project to use this [template](https://github.com/electron-react-boilerplate/electron-react-boilerplate) to help speed up `React` integration.
+
+#### Remaining:
+ - Finish Front-End / Packaging *using [webpack](https://webpack.js.org/) | [babel](https://babeljs.io/)*
+ - Build a `Rest API` coupled to a DBMS and it's database *(client authentication needed)*
+ - Build the `Discord Bot` *(using GoLang)*
 
 Tribe Logger is a electron app that is being build with React as it's front-end JS framework.
 
