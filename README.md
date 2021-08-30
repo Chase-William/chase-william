@@ -2,8 +2,8 @@
 I'm a 4rd year Web and Mobile Computing undergraduate at <a href="https://www.rit.edu/">Rochester Institute of Technology</a>.
 
 - 🌱 Currently learning & building an [electron](https://www.electronjs.org/) app with [React](https://reactjs.org/) which includes my very own [native node addon](https://nodejs.org/api/addons.html) using [nan](https://github.com/nodejs/nan)
-- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/), [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
-- 🔭 Currently employed as a DevOps Engineer working with HoloLens 2 Tech under the [CCL](https://www.rit.edu/ntid/nccl) and also as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
+- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/), [Unity](https://unity.com/),  [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
+- 🔭 Currently employed as a DevOps Engineer working with [HoloLens 2](https://www.microsoft.com/en-us/hololens/buy) Tech under the [CCL](https://www.rit.edu/ntid/nccl) and also as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
 
 ## Noteable Projects:
 
@@ -36,6 +36,20 @@ This project was created for [ICS](https://www.rit.edu/ntid/ics) department and 
 ![Game Of Life Console, Desktop, & Mobile](resources/game-of-life/game_of_life_all.png)
 
 I attended the event and assisted new students with building their own apps from this repo. Checkout the [repo](https://github.com/MAD-NTID/GameOfLife) if you want to see more or download it for youself.
+
+### Lil Widgets
+
+[Lil Widgets](https://github.com/Chase-William/LilWidgets) is a library that provides progress & loading controls to `Xamarin.Forms`. The motive behind this project was I wanted to learn more about animations and how to create them. Therefore this project depends heavily on `SkiaSharp` and its various public packages.
+
+I created the widgets from scratch using `SkiaSharp` and a `Canvas`. I learned more about `Delta-Time` *(used it before in `Unity`)* and how to implement better animation update routines *(moving away from frame rate based update to time based)*. I never felt my own implementation was smooth enough so I ended up coupling my animation updates to the built-in [Animation](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.animation?view=xamarin-forms) class *(uses native animation utilities)*.
+
+This project's underlying structure is based off [Microcharts](https://github.com/microcharts-dotnet/Microcharts), except this repo is coupled to Xamarin.Forms as I previously mentioned.
+
+| Progress Widget | Progress Breakdown | Loading Widget |
+| :---: | :---: | :---: |
+| ![Home Page](resources/lil-widgets/progress_widget.jpg) | ![Quiz Page](resources/lil-widgets/progress_widget_breakdown.jpg) | ![Quiz Page](resources/lil-widgets/loading_widget.jpg) |
+
+Checkout more about this project at its [repo](https://github.com/Chase-William/LilWidgets)...
 
 ### Baby Fingers
 
