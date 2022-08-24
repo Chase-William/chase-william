@@ -1,11 +1,25 @@
-### Hello, I'm Chase 👋
-I'm a 4th year Web and Mobile Computing undergraduate at <a href="https://www.rit.edu/">Rochester Institute of Technology</a>.
+## Hello, I'm Chase 👋
+I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.rit.edu/">Rochester Institute of Technology</a>.
 
-- 🌱 Learning & building an [electron](https://www.electronjs.org/) app with [React](https://reactjs.org/) which includes my very own [native node addon](https://nodejs.org/api/addons.html) using [nan](https://github.com/nodejs/nan)
-- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/), [Unity](https://unity.com/),  [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
-- 🔭 Employed as a DevOps Engineer working with [HoloLens 2](https://www.microsoft.com/en-us/hololens/buy) Tech under the [CCL](https://www.rit.edu/ntid/nccl) and also as the Lead Tutor of the <a href="https://www.rit.edu/ntid/ics">ICS Department</a>.
+- 🌱 Learning and experiencing how to build and deploy personal projects *(checkout [.Docs](https://github.com/Chase-William/.Docs) for more info)*
+- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Electron](https://www.electronjs.org/) 🤯, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
+
+#### Hobbies I enjoy other than coding 😉
+- Weight Lifting 💪
+- Reading *(currently reading <ins>[mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)</ins> by Carol S. Dweck, Ph. D.)* 📚
+- Playing my six string Fender acoustic guitar 🎸
+- Quotes, I like to memorize powerful quotes
+
+#### Random Things about me
+- I am hard of hearing so I know a decent amount of ASL and can communicate to a fair degree. 🤌
+- I studied German during high school on my own accord since no classes were offered. I also took Deutsch *ein* (1) at RIT and so I can read/write/pronounce some basic statements.
+- From playing tons of tank & plane games from my childhood, I have a vast knowledge base regarding WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://www.google.com/search?client=firefox-b-1-d&q=is-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
 
 ## Notable Projects:
+
+### DotDocs
+
+![Workflow from your project to dotdocs & dotdocs.core to generated markdown files.](https://github.com/Chase-William/.Docs/blob/main/resources/media/.docs-flow-2155x-512x-linear.png)
 
 ### Tribe Logger
 
