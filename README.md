@@ -8,12 +8,12 @@ I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.ri
 - Weight Lifting 💪
 - Reading *(currently reading <ins>[mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)</ins> by Carol S. Dweck, Ph. D.)* 📚
 - Playing my six string Fender acoustic guitar 🎸
-- Quotes, I like to memorize powerful quotes
+- Quotes; I like to memorize powerful quotes
 
 #### Random Things about me
 - I am hard of hearing so I know a decent amount of ASL and can communicate to a fair degree. 🤌
-- I studied German during high school on my own accord since no classes were offered. I also took Deutsch *ein* (1) at RIT and so I can read/write/pronounce some basic statements.
-- From playing tons of tank & plane games from my childhood, I have a vast knowledge base regarding WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
+- I studied German during high school on my own accord since no classes were offered. I also took Deutsch *ein* (1) at RIT so I can read/write/pronounce some basic statements.
+- From playing loads of tank & plane games from my youth, I have amounted a vast knowledge base regarding WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
 
 ## Notable Projects:
 
