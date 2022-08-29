@@ -19,7 +19,7 @@ I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.ri
 
 ### DotDocs *(.Docs)*
 
-*DotDocs* is an intuitive & reliable documentation generator library for C# projects. Currently it produces markdown files for documentation and support for website generation is planned. The project is being released through chocolatey [here](https://community.chocolatey.org/packages/dotdocs), as well as in Github's releases [here](https://github.com/Chase-William/.Docs/releases). Visit [*.Docs*](https://github.com/Chase-William/.Docs) to learn more about the project!
+*DotDocs* is an intuitive & reliable documentation generator library for C# projects. Currently it produces markdown files as documentation and support for website generation is planned. The project is being released through chocolatey [here](https://community.chocolatey.org/packages/dotdocs), as well as in Github's releases [here](https://github.com/Chase-William/.Docs/releases). Visit [*.Docs*](https://github.com/Chase-William/.Docs) to learn more about the project!
 
 The diagram below shows a high level flow of *DotDocs* using your local C# project files and processing the information to produce markdown files.
 
