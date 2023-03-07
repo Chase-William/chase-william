@@ -5,9 +5,9 @@ I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.ri
 - 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Electron](https://www.electronjs.org/) 🤯, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 
 #### Hobbies I enjoy other than coding 😉
-- Weight Lifting 💪
-- Reading *(currently reading <ins>[mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)</ins> by Carol S. Dweck, Ph. D.)* 📚
-- Playing my six string Fender acoustic guitar 🎸
+- Weight Lifting 💪 / Calisthenics
+- Recently Read [mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322) by Carol S. Dweck, Ph. D. 📚
+- Playing my guitars 🎸
 - Quotes; I like to memorize powerful quotes
 
 #### Random Things about me
