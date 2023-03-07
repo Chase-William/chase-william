@@ -4,6 +4,8 @@ I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.ri
 - 🌱 Learning and experiencing how to build and deploy personal projects *(checkout [.Docs](https://github.com/Chase-William/.Docs) for more info)*
 - 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Electron](https://www.electronjs.org/) 🤯, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 
+> Checkout my website [chase-william.net](https://chase-william.net)
+
 #### Hobbies I enjoy other than coding 😉
 - Weight Lifting 💪 / Calisthenics
 - Recently Read [mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322) by Carol S. Dweck, Ph. D. 📚
