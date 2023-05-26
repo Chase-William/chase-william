@@ -1,21 +1,21 @@
 ## Hello, I'm Chase 👋
-I'm a 5th year Web and Mobile Computing undergraduate at <a href="https://www.rit.edu/">Rochester Institute of Technology</a>.
+Hello, My name is Chase 👋 I'm a graduate of <a href="https://www.rit.edu/">Rochester Institute of Technology</a> with a bachelor's degree in <a href="https://www.rit.edu/study/web-and-mobile-computing-bs">Web & Mobile Computing</a>.
 
-- 🌱 Learning and experiencing how to build and deploy personal projects *(checkout [.Docs](https://github.com/Chase-William/.Docs) for more info)*
-- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Electron](https://www.electronjs.org/) 🤯, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
+- 🌱 Learning through development of my personal projects
+- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
 
 > Checkout my website [chase-william.net](https://chase-william.net)
 
 #### Hobbies I enjoy other than coding 😉
 - Weight Lifting 💪 / Calisthenics
-- Recently Read [mindset](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322) by Carol S. Dweck, Ph. D. 📚
+- Currently embarked on reading the Wheel of Time series by Robert Jordan *(14 books.. its long)*
 - Playing my guitars 🎸
-- Quotes; I like to memorize powerful quotes
+- Memorizing power quotes
 
 #### Random Things about me
-- I am hard of hearing so I know a decent amount of ASL. 🤌
+- I am hard of hearing and have decent ASL proficiency. 🤌
 - I studied German during high school on my own accord. I also took Deutsch *ein* (1) at RIT so I can read/write/pronounce some basic statements.
-- Due to playing loads of tank & plane games in my youth, I have amounted a vast knowledge base regarding WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
+- Due to playing loads of tank & plane games in my youth, I have amounted a knowledge base of WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
 
 ## Notable Projects:
 
