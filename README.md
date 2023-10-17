@@ -1,5 +1,4 @@
-## Hello, I'm Chase 👋
-Hello, My name is Chase 👋 I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Technology</a> with a bachelor's degree in <a href="https://www.rit.edu/study/web-and-mobile-computing-bs">Web & Mobile Computing</a>.
+Hello, my name is Chase 👋 I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Technology</a> with a bachelor's degree in <a href="https://www.rit.edu/study/web-and-mobile-computing-bs">Web & Mobile Computing</a>.
 
 - 🌱 Learning through development of my personal projects
 - 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
