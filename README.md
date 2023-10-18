@@ -1,20 +1,23 @@
-Hello, my name is Chase 👋 I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Technology</a> with a bachelor's degree in <a href="https://www.rit.edu/study/web-and-mobile-computing-bs">Web & Mobile Computing</a> and a minor in Psychology.
+## Hello, My Name is Chase 👋 
+I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Technology</a> with a bachelor's degree in <a href="https://www.rit.edu/study/web-and-mobile-computing-bs">Web & Mobile Computing</a> and a minor in Psychology.
 
-- 🌱 Learning through development of my personal projects
-- 🧪 Favorite technologies: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ❤️, [TypeScript](https://www.typescriptlang.org/) 🙏🏻, [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Github](https://github.com/) 🤟, [Svelte](https://svelte.dev/), [GoLang](https://golang.org/), [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/)
-
-> Checkout my website [chase-william.net](https://chase-william.net)
-
-#### Hobbies I enjoy other than coding 😉
+#### Hobbies
+- Coding *(Mit meine Kaffee!)*
+- Exploring different technologies and spaces through development of personal projects 🌱
 - Weight Lifting 💪 / Calisthenics
 - Currently embarked on reading the Wheel of Time series by Robert Jordan *(14 books.. its long)*
 - Playing my guitars 🎸
 - Memorizing power quotes
 
-#### Random Things about me
-- I am hard of hearing and have decent ASL proficiency. 🤌
-- I studied German during high school on my own accord. I also took Deutsch *ein* (1) at RIT so I can read/write/pronounce some basic statements.
-- Due to playing loads of tank & plane games in my youth, I have amounted a knowledge base of WW1 & WW2 tanks & planes. Some of my favorite tanks are the [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
+#### Other Interest or Things About Me
+- I have a personal website: [chase-william.net](https://chase-william.net)
+- Currently, my favorite technologies include: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Auto Hotkey](https://www.autohotkey.com/), [VS Code](https://code.visualstudio.com/), [Markdown](https://en.wikipedia.org/wiki/Markdown), [Github](https://github.com/) 🧪
+- Am hard of hearing
+- ASL proficient 🤌
+- Studied German during high school on own accord. Also took Deutsch ein *(1)* at RIT, therefore know the basics.
+- Due to playing tank & plane games in my youth, I have amounted a knowledge base of WW1 & WW2 tanks & planes. Favorite tanks include: [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
+
+> About my projects: Whether the project was finished or not, I see a win. These experiences only leave me a better developer than when I started.
 
 ## Notable Projects:
 
@@ -38,14 +41,7 @@ In the image below you can see it capturing a bitmap from the *ARK: Survival Evo
 
 ![Tribe-Logger](resources/tribe-logger/testing.png)
 
-Recently I ported the project to use this [template](https://github.com/electron-react-boilerplate/electron-react-boilerplate) to help speed up `React` integration.
-
-#### Remaining:
- - Finish Front-End / Packaging *using [webpack](https://webpack.js.org/) | [babel](https://babeljs.io/)*
- - Build a `Rest API` coupled to a `DBMS` and it's database *(client authentication needed | going SQL style)*
- - Build the `Discord Bot` *(using [GoLang](https://golang.org/) & [discordGo](https://github.com/bwmarrin/discordgo))*
-
-This repo is currently under active development and is private because of possible monetization once finished. 
+I ported the project to use this [template](https://github.com/electron-react-boilerplate/electron-react-boilerplate) to help speed up `React` integration.
 
 ### Game Of Life
 
