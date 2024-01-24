@@ -21,15 +21,11 @@ I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Tec
 
 ## Notable Projects:
 
-### DotDocs *(.Docs)*
+### DotDocs
 
-*DotDocs* is an intuitive & reliable documentation generator library for C# projects. Currently it produces markdown files as documentation and support for website generation is planned. The project is being released through chocolatey [here](https://community.chocolatey.org/packages/dotdocs), as well as in Github's releases [here](https://github.com/Chase-William/.Docs/releases). Visit [*.Docs*](https://github.com/Chase-William/.Docs) to learn more about the project!
+Generate easy add hoc docs from your C# codebase in markdown format. Read more [here](https://github.com/Chase-William/DotDocs).
 
-The diagram below shows a high level flow of *DotDocs* using your local C# project files and processing the information to produce markdown files.
-
-![Workflow from your project to dotdocs & dotdocs.core to generated markdown files.](https://github.com/Chase-William/.Docs/blob/main/resources/media/.docs-flow-2155x-512x-linear.png)
-
-> Multiple local projects *(.csproj files)* are supported and different configurations with overrides are available to alter the produced documentation.
+![DotDocs_how_it_works](https://github.com/Chase-William/chase-william/assets/46757278/fcbe5d31-e5b8-4ff0-8b0e-e646cdae8724)
 
 ### Tribe Logger
 
