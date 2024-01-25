@@ -7,7 +7,7 @@ I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Tec
 - Weight Lifting 💪 / Calisthenics
 - Currently embarked on reading the Wheel of Time series by Robert Jordan *(14 books.. its long)*
 - Playing my guitars 🎸
-- Memorizing power quotes
+- Memorizing powerful quotes
 
 #### Other Interest or Things About Me
 - I have a personal website: [chase-william.net](https://chase-william.net)
