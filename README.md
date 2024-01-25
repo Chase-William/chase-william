@@ -12,7 +12,6 @@ I'm a 2023 graduate of <a href="https://www.rit.edu/">Rochester Institute of Tec
 #### Other Interest or Things About Me
 - I have a personal website: [chase-william.net](https://chase-william.net)
 - Currently, my favorite technologies include: [.NET](https://dotnet.microsoft.com/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Auto Hotkey](https://www.autohotkey.com/), [VS Code](https://code.visualstudio.com/), [Markdown](https://en.wikipedia.org/wiki/Markdown), [Github](https://github.com/) 🧪
-- Am hard of hearing
 - ASL proficient 🤌
 - Studied German during high school on own accord. Also took Deutsch ein *(1)* at RIT, therefore know the basics.
 - Due to playing tank & plane games in my youth, I have amounted a knowledge base of WW1 & WW2 tanks & planes. Favorite tanks include: [IS-3](https://en.wikipedia.org/wiki/IS-3), [IS-7](https://en.wikipedia.org/wiki/IS-7), [Panther A](https://en.wikipedia.org/wiki/Panther_tank), [Tiger I](https://en.wikipedia.org/wiki/Tiger_I), [Jagdpanzer IV](https://en.wikipedia.org/wiki/Jagdpanzer_IV), [T29 *With it's Ears* (rangefinders)](https://en.wikipedia.org/wiki/T29_Heavy_Tank), [T34](https://en.wikipedia.org/wiki/T34_Heavy_Tank), [The Jumbo *(m4a3e2)*](https://tanks-encyclopedia.com/ww2/us/m4a3e2-jumbo-assault-tank)
